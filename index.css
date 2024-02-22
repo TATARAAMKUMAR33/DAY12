@@ -1,0 +1,30 @@
+*{margin:0px;
+    padding: 0px;
+ 
+    flex-wrap: wrap;
+}
+.conatiner{
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+    padding: 5px;
+    border: 2px solid black; 
+   justify-content: center;
+    align-items: center;
+}
+h1 , h3{
+    text-align: center;
+}
+.main-2{
+    border: 2px solid rgb(146, 143, 143);
+    padding: 10px;
+    height: 250px;
+     
+}
+.box-2 {
+   display: flex;
+    padding: 20px;
+   
+    justify-content: space-around;
+ }
+    
