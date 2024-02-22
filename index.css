@@ -8,7 +8,7 @@
     width: 100px;
     margin: 20px;
     padding: 5px;
-    border: 2px solid black; 
+    border: 2px solid rgb(149, 233, 14); 
    justify-content: center;
     align-items: center;
 }
@@ -16,7 +16,7 @@ h1 , h3{
     text-align: center;
 }
 .main-2{
-    border: 2px solid rgb(146, 143, 143);
+    border: 2px solid rgb(178, 236, 18);
     padding: 10px;
     height: 250px;
      
